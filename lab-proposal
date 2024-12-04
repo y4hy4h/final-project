@@ -1,0 +1,59 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+"jumpy Bird"
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+A rendition of flappy bird. 
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+My rendition of flappy bird will start with a home screen with a play button and a high score(if available).
+Then when the user presses the bird will render in and the map will begin moving with the obstacles coming
+in from the right to the left. Everytime the user clicks the bird will go up "x" number of pixels to avoid hitting the obstacles.
+For every ostacle the user succeeds in avoding, a point tracker in the top right will increase by one. For every five obstacles the user evades,
+the obstacles will approach at a slightly faster speed. When the user collides with an object, I want a "Game Over" message to pop along with a "Go to Home"
+and "Play Again" messages.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+N/A
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+- Flappy bird map
+- Home Screen
+- Play button
+- Base code for obstacle/map movement
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+- Flappy bird map
+- Home Screen
+- Play button
+- Base code for obstacle/map movement
+- Flappy bird movement with click
+- Point tracker
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+- Flappy bird map
+- Home Screen
+- Play button
+- final code for obstacle/map movement
+- Flappy bird movement with click
+- Point tracker
+- High score tracker
+- "Game Over" "Go to Home" "Play Again" button for loss
+- Sounds that play for click animation, speed increase, and loss
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+I need to learn how to make a GUI using ASCII or other methods to make the different elemenets of the game such as the bird, obstacles, and map.
+I also need to learn how to bind the users clicks to the birds movement and make it so hitting the obstacles results in a loss
+instead of the bird just phasing through them. I also need to learn how to make the background move and make the speed change every five successful 
+evasions. Most of the new skills I need to acquire are graphics and user input based. 
